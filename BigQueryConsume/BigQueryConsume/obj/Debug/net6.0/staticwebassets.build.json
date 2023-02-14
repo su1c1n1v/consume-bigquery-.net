@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "67ix208uZluzDCjFcW9IjfgnCU/epmZoaeOAtElC70k=",
+  "Source": "BigQueryConsume",
+  "BasePath": "_content/BigQueryConsume",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

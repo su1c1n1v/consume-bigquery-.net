@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "SWdJPv5nVQqonCs/X1CKl/ymSZJIXsK/C3PY+FTFwyCCEl8a7O5ffKnYqnMPN7/8U2nB/cWAPY7dzllzS3wL5w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ViniciusCosta\\Desktop\\projects\\consume-bigquery-.net\\BigQueryConsume\\BigQueryConsume\\BigQueryConsume.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ViniciusCosta\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\ViniciusCosta\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\ViniciusCosta\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\ViniciusCosta\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\ViniciusCosta\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\ViniciusCosta\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
